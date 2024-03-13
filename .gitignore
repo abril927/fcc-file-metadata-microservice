@@ -10,6 +10,7 @@
 #!.yarn/cache
 .pnp.*
 
-/dist/*
+/data
+/dist
 .env*
 !.env.example
